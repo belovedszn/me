@@ -5,9 +5,9 @@ import sleek from "../assets/media/sleek.mp4";
 
 export const projects = [
   {
-    id: 2,
+    id: 4,
     title: "DocBot AI - API DOC Fetcher",
-    ranking: 201,
+    ranking: 97,
     tags: ["ReactJS", "Tailwind", "Motion", "Javascript", "Vanilla CSS"],
     description: `DocBot is a lightweight experimental tool built with ReactJS, Mirage, HuggingFace AI that allows users to effortlessly input any API endpoint 
       and instantly retrieve structured documentation. Designed to streamline backend communication for developers, 
@@ -20,7 +20,7 @@ export const projects = [
   {
     id: 3,
     title: "Exclusive - An Ecommerce Store",
-    ranking: 200,
+    ranking: 98,
     tags: ["ReactJS", "Javascript", "Vanilla CSS"],
     description: `Exclusive is a modern, full-featured eCommerce platform built with ReactJS and Tailwind CSS, designed to deliver a
      seamless shopping experience for both users and store admins. Customers can browse products, manage their carts, 
@@ -32,9 +32,9 @@ export const projects = [
     progress: 80,
   },
   {
-    id: 1,
+    id: 2,
     title: "Sleek Pixel - A Text Behind Image APP",
-    ranking: 199,
+    ranking: 99,
     tags: ["ReactJS", "Typescript", "TailwindCSS"],
     description: `Sleek Pixel is a creative web tool built with ReactJS that allows users to overlay customized text behind images with precision
      and ease. Whether you're crafting modern design mockups or adding hidden messages for visual storytelling, the app lets you control font style, 
@@ -45,9 +45,9 @@ export const projects = [
     progress: 70,
   },
   {
-    id: 4,
+    id: 1,
     title: "Corefans Distro",
-    ranking: 198,
+    ranking: 100,
     tags: ["ReactJS", "Tailwind", "Typescript"],
     description: `CoreFans is an all-in-one music platform designed to empower artists, executives, 
     and fans through tools for music distribution, management, and connection.`,
