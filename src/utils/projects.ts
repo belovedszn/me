@@ -5,7 +5,7 @@ import sleek from "../assets/media/sleek.mp4";
 
 export const projects = [
   {
-    id: 4,
+    id: 2,
     title: "DocBot AI - API DOC Fetcher",
     ranking: 201,
     tags: ["ReactJS", "Tailwind", "Motion", "Javascript", "Vanilla CSS"],
@@ -32,7 +32,7 @@ export const projects = [
     progress: 80,
   },
   {
-    id: 2,
+    id: 1,
     title: "Sleek Pixel - A Text Behind Image APP",
     ranking: 199,
     tags: ["ReactJS", "Typescript", "TailwindCSS"],
@@ -45,7 +45,7 @@ export const projects = [
     progress: 70,
   },
   {
-    id: 1,
+    id: 4,
     title: "Corefans Distro",
     ranking: 198,
     tags: ["ReactJS", "Tailwind", "Typescript"],
