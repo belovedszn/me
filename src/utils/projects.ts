@@ -7,7 +7,7 @@ export const projects = [
   {
     id: 4,
     title: "DocBot AI - API DOC Fetcher",
-    ranking: 97,
+    ranking: 98,
     tags: ["ReactJS", "Tailwind", "Motion", "Javascript", "Vanilla CSS"],
     description: `DocBot is a lightweight experimental tool built with ReactJS, Mirage, HuggingFace AI that allows users to effortlessly input any API endpoint 
       and instantly retrieve structured documentation. Designed to streamline backend communication for developers, 
@@ -20,7 +20,7 @@ export const projects = [
   {
     id: 3,
     title: "Exclusive - An Ecommerce Store",
-    ranking: 98,
+    ranking: 99,
     tags: ["ReactJS", "Javascript", "Vanilla CSS"],
     description: `Exclusive is a modern, full-featured eCommerce platform built with ReactJS and Tailwind CSS, designed to deliver a
      seamless shopping experience for both users and store admins. Customers can browse products, manage their carts, 
@@ -34,7 +34,7 @@ export const projects = [
   {
     id: 2,
     title: "Sleek Pixel - A Text Behind Image APP",
-    ranking: 99,
+    ranking: 97,
     tags: ["ReactJS", "Typescript", "TailwindCSS"],
     description: `Sleek Pixel is a creative web tool built with ReactJS that allows users to overlay customized text behind images with precision
      and ease. Whether you're crafting modern design mockups or adding hidden messages for visual storytelling, the app lets you control font style, 
